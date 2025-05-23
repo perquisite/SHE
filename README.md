@@ -2,7 +2,7 @@
 The code for SHE: Streaming-media Hashing Retrieval (ICML'25).
 
 # Framework
-![framework](Img\SHE_framework.jpg)
+![framework](Img/SHE_framework.jpg)
 
 # Results
-![results](Img\result.jpg)
+![results](Img/result.jpg)
